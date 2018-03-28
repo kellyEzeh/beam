@@ -1,3 +1,13 @@
 .link-color a {
     color: #322867 !important;
 }
+
+.beamlogo-nav  {
+	width: 125px;
+	height: 30px;
+	margin-top: -2px;
+}
+
+a {
+	margin-right: 15px;
+}

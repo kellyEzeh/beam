@@ -1,4 +1,7 @@
-<?php include('header.php'); ?>
+<?php
+
+$page_type = "notindex";
+include('header.php'); ?>
     <div class="container">
         <div class="row">
             <div class="col-md-4"></div>

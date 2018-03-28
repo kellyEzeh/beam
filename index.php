@@ -1,4 +1,7 @@
-<?php include('header.php'); ?>
+<?php 
+
+$page_type = "index";
+include('header.php'); ?>
 
 <div class="container pb-5">
     <div class="row pb-5">
