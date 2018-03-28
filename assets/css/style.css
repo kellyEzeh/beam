@@ -1,0 +1,101 @@
+/* index.php */
+
+.index-paragraph {
+    font-size: 30px;
+}
+
+span {
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.button-color {
+    background-color: #ea4d71;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.index {
+    font-weight: helvetica;
+    color: black;
+}
+
+h2 {
+    color: #322865;
+}
+
+.beam {
+    background-color: #b74e77;
+}
+
+.who-for {
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 1.1;
+    padding-top: 60px;
+}
+
+.whybeam {
+    color: #eb4d70;
+    font-size: 60px;
+    font-weight: bold;
+    line-height: 1.1;
+}
+
+h3 {
+    color: #322864;
+}
+
+.howitworks {
+    font-weight: bold;
+    color: #332767;
+}
+
+.join {
+    background: #e1e0e8;
+}
+
+.part {
+    font-size: 50px;
+    color: #eb4c72;
+    font-weight: bold;
+}
+
+.part-one {
+    background-color: #f1f1f1;
+}
+
+.copy-right {
+    background-color: #26183c;
+}
+
+.footer {
+    color: #fff;
+}
+
+.footer-right {
+    color: #b3b3b3;
+    font-size: 12px;
+}
+
+.three {
+    width: 44px;
+    height: 45px;
+    margin-top: 20px;
+    padding-top: 1px !important;
+}
+
+.whoisbeamfor {
+    background-color: #b74e77;
+}
+.howcanwehelp {
+    resize: none !important;
+}
+
+.submit {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+/* End----index.php */
